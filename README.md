@@ -14,15 +14,18 @@ tanakalab-sfc@googlegroups.com にお願いいたします。カスタマイズ�
 
 ![実物イメージB](images/FSpartsSample.png)
 
+![実物イメージ](images/SamplePrint01.png)
+
+
 ![クリエイティブコモンズCCBY](images/by-sa.png)
 
-![実物イメージ](images/SamplePrint01.png)
 
 
 # 3Dデータの説明
 
 フォルダに公開したデータのうち「Wakyu_Large.stl」が大サイズ、「Wakyu_Middle.stl」が中サイズ、「Wakyu_Small.stl」が小サイズになっています。
 どのデータも「透明シールド」を差し込むための溝の設計がカギです。スライス時に、その「溝」をサポート材で埋めたりせずに、かつ寸法通り正しい幅で出力するために、3Dプリンタのノズルは0.4mmを強くお勧めします。
+
 
 
 # 共同設計パートナー
